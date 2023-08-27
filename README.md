@@ -1,5 +1,11 @@
 # Hello! 👋 I'm Federico.
 
+
+![Portada](/https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png)
+
+
+
+
 ## 📫 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Federico%20Goldaracena-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federicogoldaracena/)
