@@ -3,7 +3,7 @@
 ## 📫 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Federico%20Goldaracena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federicogoldaracena/)]
-Connect with me on [LinkedIn](https://www.linkedin.com/in/federicogoldaracena/).
+
 
 
 
