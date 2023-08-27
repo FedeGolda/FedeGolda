@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Federico.
 
 
-![Portada](/https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png)
+![Portada](FedeGolda/programming-1873854_1280.png)
 
 
 
