@@ -11,6 +11,8 @@ Welcome to my GitHub profile! I'm a passionate Student Programmer Analyst enthus
 
 - [x] Software Development
 - [x] Programming in C#
+- [x] ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white) Development
+
 
 ## 🔧 Tools and Technologies
 
