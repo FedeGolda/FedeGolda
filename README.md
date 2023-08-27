@@ -25,6 +25,15 @@ Welcome to my GitHub profile! I'm a passionate Student Programmer Analyst enthus
 [![Programming Languages](https://img.shields.io/badge/-Programming%20Languages-important?style=flat-square)]()
 [![Tools](https://img.shields.io/badge/-Tools-important?style=flat-square)]()
 [![Technologies](https://img.shields.io/badge/-Technologies-important?style=flat-square)]()
+
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+- [Other Tools and Technologies]
+
+
 <!--
 ## 📈 Statistics
 
