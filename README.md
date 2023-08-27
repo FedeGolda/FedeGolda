@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Federico.
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federicogoldaracena/)](https://www.linkedin.com/in/federicogoldaracena/)
+[![Linkedin Badge](https://img.shields.io/badge/-Federico-Goldaracena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federicogoldaracena/)](https://www.linkedin.com/in/federicogoldaracena/)
 <!--
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow%20Me%20on%20GitHub&style=flat-square)](https://github.com/your-username)
 -->
