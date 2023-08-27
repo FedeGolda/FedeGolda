@@ -10,8 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Student Programmer Analyst enthus
 ## 🚀 Skills
 
 - [x] Software Development
-- [x] Programming in C#
-- [x] ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white) Development
+- [x] Programming in ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
 
 
 ## 🔧 Tools and Technologies
