@@ -1,10 +1,10 @@
 # Hello! 👋 I'm Federico.
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/in/your-profile/)
-[![Twitter Badge](https://img.shields.io/badge/-YourTwitterHandle-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/your-handle)](https://twitter.com/your-handle)
+[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federicogoldaracena/)](https://www.linkedin.com/in/federicogoldaracena/)
+<!--
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow%20Me%20on%20GitHub&style=flat-square)](https://github.com/your-username)
-
-Welcome to my GitHub profile! I'm a passionate [Your Profession or Interests] enthusiastic about [Your Interests or Favorite Technologies]. I'm always seeking creative ways to solve problems and learn new skills.
+-->
+Welcome to my GitHub profile! I'm a passionate Student Programmer Analyst enthusiastic. I'm always seeking creative ways to solve problems and learn new skills.
 
 ## 🚀 Skills
 
