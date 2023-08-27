@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Federico.
 
 
-![Portada](FedeGolda/programming-1873854_1280.png)
+![Portada](README.md/programming-1873854_1280.png)
 
 
 
