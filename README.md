@@ -28,13 +28,13 @@ Welcome to my GitHub profile! I'm a passionate Student Programmer Analyst enthus
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-- [![Programming Languages](https://img.shields.io/badge/-Programming%20Languages-important?style=flat-square)]()
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 - ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)
 
 <!--
 [![Technologies](https://img.shields.io/badge/-Technologies-important?style=flat-square)]()
 [![Tools](https://img.shields.io/badge/-Tools-important?style=flat-square)]()
+[![Programming Languages](https://img.shields.io/badge/-Programming%20Languages-important?style=flat-square)]()
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
