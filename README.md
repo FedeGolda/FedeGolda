@@ -75,5 +75,5 @@ Connect with me on LinkedIn, follow me on Twitter, or simply check out my projec
 - [Project 3](Project Link)
 
 -->
-
+<br></br>
 <h1 align="center">⭐️ Thanks for visiting my profile! ⭐️</h1>
