@@ -5,19 +5,14 @@
 
 
 
-
 ## 📫 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Federico%20Goldaracena-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federicogoldaracena/)
 
-
-
-
-
-
 <!--
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow%20Me%20on%20GitHub&style=flat-square)](https://github.com/your-username)
 -->
+
 Welcome to my GitHub profile! I'm a passionate Student Programmer Analyst enthusiastic. I'm always seeking creative ways to solve problems and learn new skills.
 
 ## 🚀 Skills
