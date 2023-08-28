@@ -76,4 +76,4 @@ Connect with me on LinkedIn, follow me on Twitter, or simply check out my projec
 
 -->
 
-⭐️ Thanks for visiting my profile! ⭐️
+<h1 align="center">⭐️ Thanks for visiting my profile! ⭐️</h1>
